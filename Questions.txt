@@ -1,0 +1,12 @@
+Questions:
+
+Q1> Write a program to open three files 1.txt, 2.txt and 3.txt if these files are not present
+    a message without exiting the program must be printed prompting the same.
+
+Q2> Write a program to print third, fifth and seventh element from a list using enumerate function.
+
+Q3> Write a list comprehension which will print the multiplication table of the user entered number.
+
+Q4> Write a program to display a/b where a and b are integers if b = 0 then display infinity by handling the 'ZeroDivionError'.
+
+Q5> Store the multiplication table generated in problem 3 in a file named 'table.txt'.
