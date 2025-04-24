@@ -19,3 +19,24 @@ try:
         print(r3)
 except FileNotFoundError as f:
     print("There are no files existing with these names")
+
+# OR
+
+file1 = input("Enter the name of the first file: ")
+file2 = input("Enter the name of the second file: ")
+file3 = input("Enter the name of the third file: ")
+try:
+    with open (file1) as f:
+        print(f.readline())
+except FileNotFoundError:
+    print(f"There was no such file found whose name was{file1}")
+try:
+    with open (file2) as f:
+        print(f.readline())
+except FileNotFoundError:
+    print(f"There was no such file found whose name was{file2}")
+try:
+    with open (file3) as f:
+        print(f.readline())
+except FileNotFoundError:
+    print(f"There was no such file found whose name was{file3}")
