@@ -1,12 +1,8 @@
-Questions:
+# QUESTIONS FOR ADVANCE PYTHON 02
 
-Q1> Write a program to open three files 1.txt, 2.txt and 3.txt if these files are not present
-    a message without exiting the program must be printed prompting the same.
+Q1> Create two virtual environments, install few packages in the first one. How do you create a similar environment in the secon one.
 
-Q2> Write a program to print third, fifth and seventh element from a list using enumerate function.
+Q2> Write a program to input name, marks and phone number of a student and format it using the format function in the following given format:
+    " The name of the student is {student_name}, his marks are {Student_marks} and his phone number is {Phone_number}".
 
-Q3> Write a list comprehension which will print the multiplication table of the user entered number.
-
-Q4> Write a program to display a/b where a and b are integers if b = 0 then display infinity by handling the 'ZeroDivionError'.
-
-Q5> Store the multiplication table generated in problem 3 in a file named 'table.txt'.
+Q3> A list contains the multiplicvation of 7. Write a program to convert it to vertical string of same numbers.
