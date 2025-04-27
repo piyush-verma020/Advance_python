@@ -6,3 +6,11 @@ Q2> Write a program to input name, marks and phone number of a student and forma
     " The name of the student is {student_name}, his marks are {Student_marks} and his phone number is {Phone_number}".
 
 Q3> A list contains the multiplicvation of 7. Write a program to convert it to vertical string of same numbers.
+
+Q4> Write a program to filter a list of numbers which are divisible by 5.
+
+Q5> Write a program to find the maximum of the numbers in a list using the reduce function.
+
+Q6> Run pip freeze for the system interpreter. Take the content and create a virtualenv.
+
+Q7> Explore the 'Flask' module and create a web server using Flask and Python.
